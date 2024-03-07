@@ -25,8 +25,8 @@ import com.openbravo.beans.LocaleResources;
 public class AppLocal {
     
 
-    public static final String APP_NAME = "KriolPOS";
-    public static final String APP_ID = "kriolos-opos";
+    public static final String APP_NAME = "UltraPOS";
+    public static final String APP_ID = "ultra-pos";
     public static final String APP_VERSION = "1.0.0-SNAPSHOT";
 
     private static final LocaleResources m_resources;

@@ -292,7 +292,7 @@ public class AppConfig implements AppProperties {
 
 // primary DB
         propConfig.setProperty("db.name", "Main DB");
-        propConfig.setProperty("db.URL", "jdbc:hsqldb:file:/db/");
+        propConfig.setProperty("db.URL", "jdbc:hsqldb:file:./db/");
         propConfig.setProperty("db.schema", "ultrapos");
         propConfig.setProperty("db.options", ";shutdown=true");
         propConfig.setProperty("db.user", "ultrapos");
